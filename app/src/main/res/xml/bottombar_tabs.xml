@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        title="Home" />
+    <tab
+        id="@+id/tab_mv"
+        title="Mv" />
+    <tab
+        id="@+id/tab_vbang"
+        title="Vbang" />
+
+    <tab
+        id="@+id/tab_mine"
+        title="Mine" />
+</tabs>
